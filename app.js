@@ -181,4 +181,4 @@ bot.on('guildMemberAdd', member => { // Make sure this is defined correctly.
 })
 
 //login
-bot.login('Mzg4NjM1NjAyMTEyODcyNDQ4.DeNptA.wkXYC17IYk66fBD_MG3FuV9l9mQ');
+bot.login('bot_token');
