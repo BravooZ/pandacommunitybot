@@ -1,0 +1,38 @@
+{
+    "Help": {
+        "name":"Help",
+        "group":"🎭 Membro 🎭",
+        "desc":"Exibe uma lista de comandos.",
+        "usage": "help [group OR command]"
+    },
+    "Hook": {
+        "name":"Hook",
+        "group":"🎭 Membro 🎭",
+        "desc":"Retorna um hook no canal.",
+        "usage": "hook <title>,<description>,[color],[avatarURL]"
+    },
+    "Weather": {
+        "name":"Weather",
+        "group":"🎭 Membro 🎭",
+        "desc":"Retorna o tempo no canal.",
+        "usage": "weather <location>"
+    },
+    "Purge": {
+        "name":"Purge",
+        "group":"❗ Superior ❗",
+        "desc":"Limpa um número especificado de mensagens.",
+        "usage": "purge <messages>"
+    },
+    "Ping": {
+        "name":"Ping",
+        "group":"❗ Superior ❗",
+        "desc":"Retorna o ping para o canal.",
+        "usage": "pong"
+    },
+    "Userinfo": {
+        "name":"Userinfo",
+        "group":"🎭 Membro 🎭",
+        "desc":"Mostra algumas informações do usuário.",
+        "usage": "userinfo"
+    }
+}
